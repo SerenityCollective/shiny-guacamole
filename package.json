@@ -1,0 +1,6 @@
+{
+  name: "shiny",
+  dependencies: [
+    "nodejs": "8.4.0"
+  ]
+}
